@@ -1,0 +1,3 @@
+# keep this directory in git
+
+This file is intentionally empty and ensures the `blocks/` folder is tracked by Git.
